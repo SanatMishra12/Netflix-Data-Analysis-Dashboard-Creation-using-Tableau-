@@ -22,4 +22,16 @@ Perform detailed content analysis, such as genre popularity over time, distribut
 
 ## Dashboard Interaction : 
 
-<a href="">DashboardScreenshot</a>
+<a href="https://github.com/SanatMishra12/Netflix-Data-Analysis-Dashboard-Creation-using-Tableau-/blob/main/Screenshot%202025-08-10%20170721.png">DashboardScreenshot</a>
+
+## Dashboard : 
+
+<img width="1758" height="864" alt="Screenshot 2025-08-10 170721" src="https://github.com/user-attachments/assets/30815fcb-c7d2-4fe1-9183-c5054cd5d270" />
+
+## Project Insights : 
+
+1. Documentaries is the highest among Top 10 Genres.
+2. United States and India has higher Movies and TV Shows.
+3. Total Movies is more as compared to total TV Shows in Distribution.
+4. Duration, Release Year, Date when it is added in Netflix and the Description is added in the Dashboard.
+
