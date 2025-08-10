@@ -1,2 +1,7 @@
-# Netflix-Data-Analysis-Dashboard-Creation-using-Tableau-
-I have created a Netflix Dashboard Project in Tableau, creating a interactive Dashboard to analyze the data.
+## Project Objective : Content Analysis : 
+
+Perform detailed content analysis, such as genre popularity over time, distribution of content production across different countries, and trends in movie versus TV show production.
+
+## Dataset used : 
+
+<a href=" "></a>
